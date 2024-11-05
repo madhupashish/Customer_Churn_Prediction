@@ -1,6 +1,6 @@
 # Customer Churn Prediction for Subscription
 
-## Author : Raghav Raipuria
+## Author : ASHISH MADHUP
 
 ### Kaggle Notebook : https://www.kaggle.com/raghavraipuria/customer-churn-prediction
 
